@@ -1,0 +1,15 @@
+{
+    "name": "marco.filipa/crafting-code",
+    "require": {
+        "phpunit/phpunit": "^6.5"
+    },
+    "authors": [
+        {
+            "name": "Marco Filipa",
+            "email": "marco.filipa@olx.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": { "": "src/" }
+    }
+}
