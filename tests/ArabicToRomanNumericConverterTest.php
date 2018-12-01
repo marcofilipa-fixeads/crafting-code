@@ -1,6 +1,6 @@
 <?php
 /**
- * Workshop
+ * ArabicToRomanNumericConverterTest
  *
  * PHP version 7
  *
@@ -8,14 +8,13 @@
  * @copyright 2018 Olx@lisbonTechHub
  */
 
+
 /**
- * Workshop
+ * ArabicToRomanNumericConverterTest
  *
  *
  */
-class Workshop
+class ArabicToRomanNumericConverterTest
 {
-    public function __construct()
-    {
-    }
+
 }
